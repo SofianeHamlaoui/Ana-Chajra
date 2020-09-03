@@ -1,5 +1,8 @@
 # Ana Chajra ak chayef ?
 ## A custom Sudo Warning message
+![](https://i.imgur.com/kW1UHVp.jpg)
+
+instead of this boring one
 
 ```
 We trust you have received the usual lecture from the local System
