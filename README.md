@@ -15,7 +15,7 @@ Administrator. It usually boils down to these three things:
     #2) Think before you type.
     #3) With great power comes great responsibility.
 ```
-## Add this to `/etc/sudeors.lectute`
+## Add this to `/etc/sudeors.lecture`
 ```
 $ sudo vim /etc/sudoers.lecture
 ```
